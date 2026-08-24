@@ -31,4 +31,5 @@ No data is sold, transferred, or shared with any third party.
 ## Contact
 
 If you have any questions about this privacy policy, contact:
+
 illustrious.planetplus@gmail.com
