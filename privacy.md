@@ -1,6 +1,6 @@
 # Privacy Policy — A/B Extension Switcher
 
-_Last updated: August 2026
+Last updated: August 2026
 
 A/B Extension Switcher ("the extension") is committed to protecting your privacy.
 
